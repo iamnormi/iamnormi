@@ -28,7 +28,7 @@ I am Vinod Kumar. I love to learn new things, hardworking and is very keen on te
 <code><a href="https://developer.android.com/studio" target ="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg"></a></code>
 <code><a href="https://ffmpeg.org/" target ="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg"></a></code>
 <code><a href="https://www.qemu.org/" target ="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Qemu_logo.svg"></a></code>
-<code><a href="https://www.linux-kvm.org/page/Main_Page" target ="_blank"><img height="50" src="https://ww1.freelogovectors.net/wp-content/uploads/2019/02/kvm-logo.png"></a></code>
+<code><a href="https://www.linux-kvm.org/page/Main_Page" target ="_blank"><img height="50" src="https://www.linux-kvm.org/kvmless/kvmbanner-logo3.png"></a></code>
 <code><a href="https://www.virtualbox.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></a></code>
 <code><a href="https://www.vmware.com/products/workstation-pro.html" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg"></a></code>
 <code><a href="https://hadoop.apache.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></a></code>
