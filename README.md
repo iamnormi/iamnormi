@@ -10,7 +10,7 @@ I am Vinod Kumar. I love to learn new things, hardworking and is very keen on te
 ### Learning | Using 🧠
 <code><a href="https://archlinux.org/" target ="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></a></code>
 <code><a href="https://isocpp.org/" target ="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/Dennis_Ritchie" target ="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Dennis_Ritchie" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://java.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
